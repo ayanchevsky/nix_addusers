@@ -1,0 +1,26 @@
+{
+    "users": [
+        {
+            "login": "ansible",
+            "key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDt43seeONyddW4EE9AbUa2SB+VLMoGVRoj0olgvPTczo5GwGNVWda4iMKxA3ixTuDOyauz5+30rYFVNfvksY2SeL/QhafDd0suBAeWrhiUNMsrW91WuJBaYiYl3gDvxN7djfx7xkkw1HIkDU5QbibR/sY3cUNdfp4PdqeZ7SG/hY3vIJqZe24S8fUBpjWxIh5W5TOyiA00oTFH3YUul705HExlGaHxsWCWSPFOw5Vhv4T0R4O57dWdDHqX/L91sf3Dp75Qgaeefai61vbisuL+a+CsiawsVNHfz+1POWOg59TYOaMmrMS+iDzjxZ7c1YOht0XAMWTnKXzESLpt0FpL ansible ssh key",
+            "root": "True",
+            "sudoers": "True"
+        },
+        {
+            "login": "bratashov.a",
+            "key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDaY68A5uFTy8ieJU4V6OibAc0Be+uvH14a2r03DYaY0SXuBeSE6ugRpWHLIhlOXK3/8qdmrM3dkLj6AH8f+AmKs3m500WfWgOMqNMOvPpZOFqSIBXszAtnf8jPogtz4id9F1wJtC/Af/FcK+KXr2BGTo+lm6dl0YbD+KUAo0KQNCuNTTIt/ykFu+QjS7zMw9aM0DsdIIF/1mYjhFrDpuLFbwatKpgckE2ND0BKMYJ+vfrhAOVlUA+w501JPRehEGaFq793bU+wWS3v2LgPhrYhlQOwWK+LqY5bPLx6CTOs0KPasm/Sdyxx2cn/Ewocuey7vJOY2CulobWpJP1K5nu3ktS4WWD8SIhi7QR/78Sxk5epBgVOAuUF4q8jcYfPGCF7uOcbBkwKMjZFkHrmPVXrSg8Uz9SkkK7i4uIP0DR4U9LEgUscJB2mmg+/+y1y5l2qQoZNz9VQcMehLKK5zs4EBQx36VcdW+d4uGCtdSTbkM65WyjeEgzmy9qmPgxhrwE= Bratashov.a@D-00364",
+            "root": "True"
+        },
+        {
+            "login": "mirtskhulava.sh",
+            "key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCsiveRTfcUwfWdzZ8KIjQVQZ7fChSgq6UVpqkFdGzqVqLRAMScrHWC5iE9P3mC57QRbSumo6e2eY+cyjepehH41LV1ZC0J9dJFH99toFe0yxMcOoHFzKMJ2BA5Bt/xA1P6IcmkKNSUmS4UeLQrkidPDrOe1sOuafdVFVQhIyx3xpLvQvaOooj0ztGknegFPoHsBmKwXj8Y1GvKWaEcw/YCl+hTLG3cqrFiBOLqXXCYAaHSg86e1zY4ya6GiNuIOKr57QDeEaY0K4yecJ33YNPO4LD346I2yNJPQByFX3OHCZPYZy5OUll3fHcWMfiDFmqXBpXy9BhQ6cKF+5A6yvnT rsa-key-20210608",
+            "root": "True"
+        },
+        {
+            "login": "ianchevskii.a",
+            "key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC1Bp7JB+TMSnM17qt8fAgZ3+A+aQSNPhRliBKGyio9Ut30XHlwNG/s8hHcdOl5/l2XPGZ+nP81PAiJKU1mDSCWtPCX95cSCraXCijDiaegkmSQKFpo7pwH44APSwe5PNfHUE47ErFexAp4/F4d3v/KicUZS7/TH5HMPmy+gMrZ+K+4Gu3QOPsNzjx4h7/6cl3hL6VklVwD0ae+ohma0GPLmvl0T8bnWd8NkbJ0neqSxu+d/z3ws4iTUcpkGRTYf1mfhVtVvcVfbret678t/1fIThP/r6RoheDvL5nRg5G5XCb6ORqIzuTIQLVL9kA9KfAdfcqkpIhiKABAZv5Onu+z rsa-key-20220301",
+            "root": "True"
+        }
+
+    ]
+}
